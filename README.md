@@ -1,4 +1,3 @@
-* [ ] 
 
 # CRM Data Analysis and Optimization
 
